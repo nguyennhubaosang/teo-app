@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nguyennhubaosang/teo-app/static/css/main.d1b05096.chunk.css",
+    "main.js": "/nguyennhubaosang/teo-app/static/js/main.5cebca7e.chunk.js",
+    "main.js.map": "/nguyennhubaosang/teo-app/static/js/main.5cebca7e.chunk.js.map",
+    "runtime-main.js": "/nguyennhubaosang/teo-app/static/js/runtime-main.2b4e8fb8.js",
+    "runtime-main.js.map": "/nguyennhubaosang/teo-app/static/js/runtime-main.2b4e8fb8.js.map",
+    "static/js/2.b6d67989.chunk.js": "/nguyennhubaosang/teo-app/static/js/2.b6d67989.chunk.js",
+    "static/js/2.b6d67989.chunk.js.map": "/nguyennhubaosang/teo-app/static/js/2.b6d67989.chunk.js.map",
+    "index.html": "/nguyennhubaosang/teo-app/index.html",
+    "precache-manifest.3fda873c1a8329acdc9ca9f047bf539e.js": "/nguyennhubaosang/teo-app/precache-manifest.3fda873c1a8329acdc9ca9f047bf539e.js",
+    "service-worker.js": "/nguyennhubaosang/teo-app/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/nguyennhubaosang/teo-app/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.b6d67989.chunk.js.LICENSE.txt": "/nguyennhubaosang/teo-app/static/js/2.b6d67989.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/nguyennhubaosang/teo-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b4e8fb8.js",
+    "static/js/2.b6d67989.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.5cebca7e.chunk.js"
+  ]
+}
